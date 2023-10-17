@@ -48,5 +48,6 @@ include_once ("templades/footer.php");
 <?php 
 include_once ("templades/pizza.php");
 ?>
+timezone_abbreviations_list.php
 
 
